@@ -10,7 +10,7 @@ Enhanced from the official version <https://github.com/17mon/java> with the foll
 
 ## Limitations
 
-* Only datx format is supported, which is non-free. That means you or your organization has to purchase the database from the official site <http://www.ipip.net>.
+* Only datx format is supported, which is non-free. That means you or your organization have to purchase the offline database from <http://www.ipip.net>.
 
 ## A Java Example:
 
